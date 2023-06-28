@@ -24,4 +24,4 @@ Gra "Pong" została stworzona przy użyciu następujących technologii:
 
 ## Autor
 
-Gra została stworzona przez: Your Name
+Gra została stworzona przez: Piotrek538
