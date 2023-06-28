@@ -1,0 +1,11 @@
+[gd_scene format=2]
+
+[node name="leftPunctation" type="RichTextLabel"]
+margin_left = 185.079
+margin_top = 464.657
+margin_right = 277.079
+margin_bottom = 504.657
+text = "Gracz lewy:"
+__meta__ = {
+"_edit_use_anchors_": false
+}

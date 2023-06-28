@@ -1,0 +1,11 @@
+[gd_scene format=2]
+
+[node name="rightPunctation" type="RichTextLabel"]
+margin_left = 259.0
+margin_top = 193.0
+margin_right = 476.0
+margin_bottom = 233.0
+text = "Gracz prawy: "
+__meta__ = {
+"_edit_use_anchors_": false
+}
