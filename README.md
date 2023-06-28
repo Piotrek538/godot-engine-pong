@@ -13,8 +13,6 @@ Prosta gra "Pong" jest popularną grą zręcznościową, która została zaprogr
 3. Gra rozpoczyna się automatycznie po uruchomieniu.
 4. Gracze starają się odbijać piłeczkę, aby nie przeleciała przez ich paletki.
 5. Za każde trafienie przeciwnika, zdobywasz punkt.
-6. Pierwszy gracz, który zdobędzie ustaloną liczbę punktów (np. 10), wygrywa grę.
-7. Po zakończeniu gry można ją zresetować, naciskając klawisz R.
 
 ## Technologie
 
