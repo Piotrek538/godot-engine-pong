@@ -1,6 +1,7 @@
 # Prosta gra "Pong" w Godot Engine
 
 ![Pong](pong_screenshot.png)
+![Pong](screenshot2.png)
 
 ## Opis
 
@@ -20,10 +21,6 @@ Gra "Pong" została stworzona przy użyciu następujących technologii:
 
 - Silnik: Godot Engine
 - Język programowania: GDScript
-
-## Zrzut ekranu
-
-![Pong](pong_screenshot.png)
 
 ## Autor
 
